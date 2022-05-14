@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Arial, sans-serif;
+    font-size: 45px;
+}
+
+img {
+    height: auto;
+    width: 200px;
+    
+}
+
+button {
+    background-color: red;
+}
+
+.pizza-img,
+.burger-img,
+.lasagna-img {
+    height: auto;
+    width: 300px;
+}
+
+
+
+h2 {
+    background-color: cornsilk;
+    font-weight: bold;
+}
+
+h3 {
+    background-color: skyblue;
+    font-size: q8px;
+}
